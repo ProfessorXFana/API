@@ -1,0 +1,18 @@
+.name{
+    width: 30%;
+  }
+  ul{
+    list-style-type: none;
+  }
+  li{
+    padding: 15px; 
+    text-align: left;
+  }
+  li:nth-child(even){
+    background-color: rgb(1, 26, 26);
+    color: #FFFF;
+  }
+  li:nth-child(odd){
+    background-color: rgb(28, 75, 75);
+    color: #FFFF;
+  }
